@@ -54,4 +54,4 @@ for turn in range(1, 10):
 
 if not winner:
     print(jadval)
-    print("Durrang!")
+    print("Durrang !!!")
